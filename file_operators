@@ -1,0 +1,15 @@
+-e: This operator checks if a file exists in the specified location.
+-f: This operator checks if a file exists and is a regular file.
+-d: This operator checks if a file exists and is a directory.
+-s: This operator checks if a file exists and is not empty.
+-r: This operator checks if a file exists and is readable.
+-w: This operator checks if a file exists and is writable.
+-x: This operator checks if a file exists and is executable.
+-z: This operator checks if a string is empty.
+-n: This operator checks if a string is not empty.
+-eq: This operator checks if two integers are equal.
+-ne: This operator checks if two integers are not equal.
+-lt: This operator checks if the first integer is less than the second integer.
+-le: This operator checks if the first integer is less than or equal to the second integer.
+-gt: This operator checks if the first integer is greater than the second integer.
+-ge: This operator checks if the first integer is greater than or equal to the second integer.
